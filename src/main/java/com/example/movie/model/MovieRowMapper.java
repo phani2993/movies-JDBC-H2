@@ -11,7 +11,8 @@
 
 package com.example.movie.model; 
 import  java.util.*;  
-import org.springframework.jdbc.core.RowMapper; 
+import org.springframework.jdbc.core.RowMapper;  
+import com.example.movie.model.Movie;
 
 import java.sql.SQLException;
 
